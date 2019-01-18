@@ -1,3 +1,3 @@
-# Gladys fake module
+# Gladys virtual device
 
-This module is an fake module for create and test device in Gladys UI without error returned
+This module is a virtual module for create and test virtual device in Gladys UI without error returned.
